@@ -58,11 +58,43 @@ The third presentation we done was also about scrum and agile but we expanded on
 - Increase in productivity of employees
 - Lower cost of production
 
+### More about Scrum
+
+An Agile retrospective is a meeting that's held at the end of an iteration in Agile software development. During the retrospective, the team reflects on what happened in the iteration and identifies actions for improvement going forward. They will cover topics such as the individuals involved, interactions, processes and their definition of done
+
+What went well in the Sprint
+What could be improved
+What will we commit to improve in the next Sprint
+
+
+### How to conduct a retro
+
+
+
+- Don't make it personal, don't take it personally.
+- Listen with an open mind.
+- Everyone's experience is valid.
+- Set the time period you're discussing (last sprint, last quarter, entire project, etc.)
+- Focus on improvement, rather than placing blame.
+
+At the end of the day youre working as one team so you shouldn’t blame but you should rather focus on improvements.
+
+### DOD and DOR
+
+Definition of Ready is a different concept. It is a set of agreements that tells you when something is ready to begin. More correctly, “if something is good to begin”. E.g., when a user story is ready to be taken into a sprint, or when all the conditions are right for a team to begin a sprint.
+
+Defining the definition of done. The Definition of Done is an agreed-upon set of items that must be completed before a project or user story can be considered complete. It is applied consistently and serves as an official gate separating things from being “in progress” to “done.
+
+the definition of ready covers the requirements coming into the sprint
+the definition of done covers the product coming out of the sprint
+
 ### Devops Lifecycle
 
 <img width="717" alt="image" src="https://user-images.githubusercontent.com/115165978/194596031-fbb6f940-b012-4563-b94a-204154b4af4c.png">
 
 Here is the Devops lifecycle. They are continously carrying out specific task in order to make a project the best it could possibly be.
+
+
 
 ### How to install Python and Pycharm for MAC 
 
