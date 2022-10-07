@@ -10,6 +10,10 @@ In this document I am going to be going over what I learnt over past week which 
 - Keep it under 90 secs
 - Try to not use filler words so you can be clear and concise
 
+We first had to create our own elevator pitch and then present it in front of our cohort and then we looked back on our recording to see where we could give ourselves feedback. We took this feedback on board and then presented the pitch to a smaller group and the trainer also gave us feedback and we then came up with our final versions. There is still room for improvement but it includes everything I have achieved and gives a little insight into my background.
+
+Hi, My name is Subhaan Hussain, I am a Junior DevOps Engineer for Sparta global. I have recently proudly achieved a Software engineering degree. My background has always been incredibly technical as I have studied IT in sixth form and I carried out work experience in an independent design consultancy called chapmanBDSP as an IT technician. Here I gained valuable DevOps skills like Team-work and professionalism. My goal is to work my way up from being a junior to a senior DevOps engineer where I can put my technical skills to use.  It is clear to see I have a genuine passion for tech and the way the world is advancing i would like to be a part of this innovative industry.
+
 ### What is Agile?
 
 ![image](https://user-images.githubusercontent.com/115165978/194592614-35f0844a-e73c-49e3-85cc-c63c8d2d44e0.jpeg)
@@ -17,6 +21,12 @@ In this document I am going to be going over what I learnt over past week which 
 - Agile is a concept where you go through continuous small improvements through frequent releases
 - It is a mindset which gives you the ability to create and respond to change as fast as possible
 
+Our class was split up into 3 groups of 5 and we delivered 3 presentations.
+The first presentation was on everything about devops, so what is devops and how does it benefit the business and the specific tools the devops engineer uses. We then got feedback from our peers and the trainer to take board. 
+
+The second presentation was on what is agile and scrum. We then used the feedback we got from the last presentation to make this one even better and it was clear to see that there was an immense improvement from the quality of presentation and the content that was being taught. 
+
+The third presentation we done was also about scrum and agile but we expanded on different aspects of it to get a deeper understanding. This also went really well because we constantly recieved so much feedback and everyone took this under consideration and this improvement was clear to see.
 
 ### What is Scrum? 
 
