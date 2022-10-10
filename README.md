@@ -30,7 +30,8 @@ The third presentation we done was also about scrum and agile but we expanded on
 
 ### What is Scrum? 
 
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/115165978/194592742-831af66c-6bc3-4db9-825c-35aae64bea38.png">
+![image](https://user-images.githubusercontent.com/115165978/194833871-7e9a6a21-d1e8-45ca-9997-57135cc40d63.png)
+
 
 - Scrum is a process that allows teams in software development to deliver business values in the shortest time by constantly checking their work.
 - This could be a regular check up / calls or daily stand up.  So essentially this allows the team to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve.
